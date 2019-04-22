@@ -113,7 +113,7 @@
     {
       "label": "Cài đặt hành vi.",
       "description": "Các tùy chọn này sẽ cho phép bạn kiểm soát cách thức thực hiện tác vụ.",
-      "options": [
+      "fields": [
         {
           "label": "Kích hoạt \"Thử lại\""
         },
