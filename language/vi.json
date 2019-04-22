@@ -64,7 +64,7 @@
       "description": "Nhãn được sử dụng cho khả năng truy cập, trong đó bộ đọc sẽ đọc rằng vùng thả trống"
     },
     {
-      "label": "Nhãn khu vực thả có chữa",
+      "label": "Nhãn khu vực thả có chứa",
       "default": "Vùng thả @index chứa thành phần có thể kéo được @draggable.",
       "description": "Nhãn được sử dụng cho khả năng truy cập, trong đó bộ đọc sẽ đọc rằng vùng thả có chứa khả năng kéo"
     },
